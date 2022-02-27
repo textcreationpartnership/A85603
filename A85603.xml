@@ -1,0 +1,467 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great memorial or, A list of the names of those pretended judges vvho sate, and sentenced our late soveraign King Charles the First, in the place which they called the High Court of Justice, January 27. 1648. And also of those witnesses sworne against the said King; the sentence read against him; with the catalogue of the names of those that subscribed and sealed the warrant for his execution; and the manner of his cruel murther.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85603</idno>
+            <idno type="STC">Wing G1709</idno>
+            <idno type="STC">Thomason 669.f.25[9]</idno>
+            <idno type="STC">ESTC R211883</idno>
+            <idno type="EEBO-CITATION">99870559</idno>
+            <idno type="PROQUEST">99870559</idno>
+            <idno type="VID">163814</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85603)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163814)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f25[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great memorial or, A list of the names of those pretended judges vvho sate, and sentenced our late soveraign King Charles the First, in the place which they called the High Court of Justice, January 27. 1648. And also of those witnesses sworne against the said King; the sentence read against him; with the catalogue of the names of those that subscribed and sealed the warrant for his execution; and the manner of his cruel murther.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (port.)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Thomas at the Adam and Eve in Little Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In this edition (probably the later), the portrait of Charles I has no background and there is a small execution scene at upper left. There are 8 lines of engraved verse below, the first line reading "But lo a charg is drawne a day is set". Another edition, probably earlier and with title and text partly in a different setting, has an entirely different portrait of Charles I with cross-hatched background and a skull on a stand to the right at shoulder level. There are 8 lines of type-set verse under the portrait with first line reading "Weep England weep, help all to raise loud cry". In the earlier edition, line 4 of title begins "And also of those thirty five witnesses sworne" and the list of witnesses contains 35 names. In this later edition, line 4 of title begins "And also of those witnesses sworne" and the list of witnesses contains 30 names.</note>
+                  <note>Annotation on Thomason copy: "May 8.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Sovereign (1625-1649 : Charles I)</term>
+               <term>Regicides --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="broadside">
+            <pb facs="tcp:163814:1" rendition="simple:additions"/>
+            <head>THE GREAT MEMORIAL: OR, A Liſt of the Names of thoſe Pretended JUDGES who Sate, and Sentenced our late Soveraign King CHARLES the Firſt, in the Place which they called the High Court of Juſtice, January 27. 1648. And alſo of thoſe Witneſſes Sworne againſt the ſaid KING; The Sentence read againſt him; With the Catalogue of the Names of thoſe that Subſcribed and Sealed the Warrant for his Execution; and the Manner of his Cruel Murther.</head>
+            <div type="illustration">
+               <p>
+                  <figure>
+                     <figDesc>portrait of King Charles I with inset depiction of scaffold</figDesc>
+                     <q>O horrible murder</q>
+                     <lg>
+                        <l>But lo a Charg is drawne a day is ſet</l>
+                        <l>The ſilent lamb is brought, the wolves are met;</l>
+                        <l>And where's the Slaughter houſe Whitehall muſt be,</l>
+                        <l>Lately his Palace, now his Calvarie</l>
+                        <l>And now ye Senators is this the thing</l>
+                        <l>So oft declar'd is this your glorious King?</l>
+                        <l>Religion vails her ſelf, and mourns that ſhe</l>
+                        <l>Is forc'd to own ſuch Horrid Villanie.</l>
+                     </lg>
+                  </figure>
+               </p>
+            </div>
+            <div type="lists_of_judges_witnesses_etc.">
+               <list>
+                  <head>The NAMES of the ſaid Pretended JVDGES, who gave Sentence againſt the Late KING, January 27<hi rend="sup">th.</hi> 1648.</head>
+                  <item>
+                     <hi>JOhn Bradſhaw,</hi> Serjeant at Law, Lord Preſident.</item>
+                  <item>
+                     <list>
+                        <item>John Liſle</item>
+                        <item>William Say</item>
+                        <item>Oliver Cromwell</item>
+                        <item>Henry Ireton</item>
+                     </list> Eſquires</item>
+                  <item>
+                     <hi>Sir</hi> Hardreſs Waller <hi>Kt.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <item>Thomas Waits</item>
+                        <item>Thomas Harriſon</item>
+                        <item>Edward Whaley</item>
+                        <item>Thomas Pride</item>
+                        <item>Iſaac Ewer</item>
+                     </list> Eſquires.</item>
+                  <item>Thomas <hi>Lord</hi> Grey <hi>of</hi> Grooby.</item>
+                  <item>
+                     <hi>Sir</hi> John Danvers <hi>Kt.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Thomas Maleverer <hi>Ba<g ref="char:EOLhyphen"/>ronet.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> John Bourcher <hi>Kt.</hi>
+                  </item>
+                  <item>William Heveingham <hi>Eſ;</hi>
+                  </item>
+                  <item>
+                     <hi>Iſaac Pennington</hi> Alderman of the City of <hi>London.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <item>John Downes</item>
+                        <item>Henry Martin</item>
+                        <item>John Barkſtead</item>
+                        <item>Matthew Tomlinſon</item>
+                        <item>Gilbert Millington</item>
+                        <item>John Blakiſton</item>
+                     </list> Eſqures</item>
+                  <item>
+                     <hi>Sir</hi> Will. Conſtable <hi>Baronet.</hi>
+                  </item>
+                  <item>John Hutchiſon <hi>Eſ;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Michael Liveſey <hi>Kt.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <item>Robert Tichburne</item>
+                        <item>Nicholas Love</item>
+                        <item>Owen Roe</item>
+                        <item>Robert Lilburne</item>
+                        <item>Adrian Scroop</item>
+                     </list> Eſquires.</item>
+                  <item>
+                     <list>
+                        <item>Richard Dean</item>
+                        <item>John Okey</item>
+                        <item>Simon Meyne</item>
+                        <item>John Hewſon</item>
+                        <item>William Goffe</item>
+                        <item>Cornelius Holland</item>
+                        <item>John Carew</item>
+                        <item>John Jones</item>
+                        <item>Miles Corbett</item>
+                        <item>Frances Allen.</item>
+                        <item>Peregrine Pelham</item>
+                        <item>Thomas Chaloner</item>
+                        <item>John Moor</item>
+                        <item>John Aldred</item>
+                        <item>Henry Smith</item>
+                        <item>Humph. Edwards</item>
+                        <item>Gregory Clement</item>
+                        <item>Thomas Wogan</item>
+                     </list> Eſquries</item>
+                  <item>
+                     <hi>Sir</hi> Gregory Norton <hi>Baronet.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <item>John Venn</item>
+                        <item>Thomas Scot</item>
+                        <item>Edmund Harvey</item>
+                     </list> Eſquries</item>
+                  <item>Thomas Andrews <hi>Alderman of</hi> London.</item>
+                  <item>
+                     <list>
+                        <item>William Cawley</item>
+                        <item>Anthony Stapdley</item>
+                        <item>Thomas Horton</item>
+                        <item>Thomas Hammond</item>
+                        <item>Auguſtine Garland</item>
+                        <item>Iohn Dixwell</item>
+                        <item>James Temple</item>
+                        <item>Peter Temple</item>
+                        <item>Daniel Blagrave</item>
+                        <item>Edmund Ludlow</item>
+                     </list> Eſquires</item>
+               </list>
+               <list>
+                  <head>The Names of thoſe Witneſſes Produced and Sworn in the ſaid pretended Court, to give Evidence againſt the KING.</head>
+                  <item>WIlliam Cutbert <hi>of</hi> Patrington <hi>in</hi> Holderneſs <hi>Gent.</hi>
+                  </item>
+                  <item>John Bennet <hi>of</hi> Harwood <hi>in Com.</hi> Ebot,</item>
+                  <item>William Brayne <hi>of</hi> Wrexall <hi>in Com.</hi> Salop.</item>
+                  <item>Henry Hartford <hi>of</hi> Stratford <hi>upon</hi> Avon <hi>in</hi> Warwick.</item>
+                  <item>
+                     <hi>Robert Lacie</hi> of the Town and County of <hi>Nottingham<g ref="char:EOLhyphen"/>ſhire.</hi>
+                  </item>
+                  <item>Edward Roberts <hi>of</hi> Biſhop Caſtle <hi>in Com</hi> Salop.</item>
+                  <item>Robert Loads <hi>of</hi> Cottam <hi>in</hi> Nottingham, <hi>Tyler.</hi>
+                  </item>
+                  <item>Samuel Morgan <hi>of</hi> Wellington <hi>in Com.</hi> Salop.</item>
+                  <item>James Williams <hi>of</hi> Roſſe <hi>in</hi> Herefordſhire.</item>
+                  <item>
+                     <hi>John Pinnegar</hi> of <hi>Hamer</hi> in the County of <hi>Derby.</hi>
+                  </item>
+                  <item>Samuel Lawſon <hi>of</hi> Nottingham, <hi>Maulſter.</hi>
+                  </item>
+                  <item>
+                     <hi>Arthur Young</hi> Citizen and Barber Chirurgion of <hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+                  </item>
+                  <item>
+                     <hi>John Thomas</hi> of <hi>Kangellan</hi> in the County of <hi>Denbigh.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Bloomfeild</hi> Citizen and Weaver of <hi>London.</hi>
+                  </item>
+                  <item>
+                     <hi>William Jones</hi> of <hi>Uske</hi> in the County of <hi>Monmouth.</hi>
+                  </item>
+                  <item>
+                     <hi>David Evans</hi> of <hi>Abergenny</hi> in the County of <hi>Monmoth.</hi>
+                  </item>
+                  <item>Diogenes Edwards <hi>of</hi> Carſton <hi>in Com.</hi> Salop, <hi>Butcher.</hi>
+                  </item>
+                  <item>Giles Grice <hi>of</hi> Wellington <hi>in</hi> Shropſhire.</item>
+                  <item>John Winſton <hi>of</hi> Damorham <hi>in Com.</hi> Wilts, <hi>Gent.</hi>
+                  </item>
+                  <item>George Seeley <hi>of</hi> London <hi>Cordwainer.</hi>
+                  </item>
+                  <item>
+                     <hi>John Moor</hi> of the City of <hi>Corke</hi> in <hi>Ireland.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Ives</hi> of <hi>Boyſet</hi> in the County of <hi>Northampton.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Rawlins</hi> of <hi>Hanſlop</hi> in the County of <hi>Bucks.</hi> Gent.</item>
+                  <item>
+                     <hi>Thomas Read</hi> of <hi>Maidſtone</hi> in the County of <hi>Kent.</hi>
+                  </item>
+                  <item>James Crosby <hi>of</hi> Dublin <hi>in</hi> Ireland <hi>Barber.</hi>
+                  </item>
+                  <item>Samuel Burden <hi>of</hi> Lineham <hi>in Com.</hi> Wilts, <hi>Gent.</hi>
+                  </item>
+                  <item>
+                     <hi>Michael Pots</hi> of <hi>Sharpeſton</hi> in the County of <hi>Northumb.</hi>
+                  </item>
+                  <item>
+                     <hi>George Cornwall</hi> of <hi>Aſton</hi> in the County of <hi>Hereford.</hi>
+                  </item>
+                  <item>Henry Gouch <hi>of</hi> Grays-Inn, <hi>Gent.</hi>
+                  </item>
+                  <item>
+                     <hi>Rob. Williams</hi> of the Pariſh of St. <hi>Martins</hi> in the County of <hi>Cornwal,</hi> Husbandman.</item>
+               </list>
+               <list>
+                  <pb facs="tcp:163814:1" rendition="simple:additions"/>
+                  <head>Counſellours aſſiſtant to this Court, and to draw up the Charge againſt the KING, were</head>
+                  <item>Doctor <hi>Doriſlaus.</hi>
+                  </item>
+                  <item>Mr. <hi>Aske.</hi>
+                  </item>
+                  <item>Mr. <hi>John Cooke,</hi> Solicitor.</item>
+                  <item>Serjeant <hi>Dendy,</hi> Serjeant at Armes.</item>
+                  <item>Mr. <hi>Broughton</hi>
+                  </item>
+                  <item>Mr. <hi>Phelpes</hi>
+                  </item>
+                  <item>Clerks to the Court.</item>
+                  <item>Colonel <hi>Humfrey,</hi> Sword bearer.</item>
+               </list>
+               <list>
+                  <head>Meſſengers, Door-keepers and Cryers, were theſe;</head>
+                  <item>Mr. <hi>Walford.</hi>
+                  </item>
+                  <item>Mr. <hi>Radley.</hi>
+                  </item>
+                  <item>Mr. <hi>Paine.</hi>
+                  </item>
+                  <item>Mr. <hi>Powell</hi>
+                  </item>
+                  <item>Mr. <hi>Hull.</hi>
+                  </item>
+                  <item>Mr. <hi>King.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="judicial_proceedings">
+               <div type="sentence">
+                  <head>The SENTENCE againſt the ſaid KING, January the 27<hi rend="sup">th.</hi> 1648. which was read by Mr. Broughton aforeſaid, Clerk.</head>
+                  <p>WHereas the Commons of <hi>England</hi> in Parliament, have appointed them an High Court of Juſtice for the Tryall of <hi>Charles Stuart</hi> King of <hi>England,</hi> before whom he had been Three times Convented, and at the firſt time a Charge of High Treaſon and other Crimes and Miſdemea<g ref="char:EOLhyphen"/>nours was read in the behalf of the Kingdom of <hi>England,</hi> &amp;c. as in the Charge which was read throughout.</p>
+                  <p>To which Charge, he the ſaid <hi>Charles Stuart</hi> was requi<g ref="char:EOLhyphen"/>red to give his Anſwer, but he refuſed ſo to do; and ſo expreſt ſeveral paſſages at his Tryal in refuſing to anſwer.</p>
+                  <p>For all which Treaſons and Crimes, this Court doth adjudge, That the ſaid <hi>Charles Stuart,</hi> as a Tyrant, Traytor, Murtherer, and Publick enemy, ſhall be put to death, by ſevering his head from his body.</p>
+                  <p>This Sentence (ſayes the Preſident) now read and publiſhed is the Act, Sentence, Judgement and Reſolution of the whole Court. <hi>To which the Members of the Court ſtood up and aſſented to what he ſaid</hi> by holding up their hands.</p>
+                  <p>The King offered to ſpeak, but he was inſtantly commanded to be taken away, and the Court broke up.</p>
+               </div>
+               <div type="narrative">
+                  <head>The true manner of proceeding to take off the Kings Head, according to the Sentence given as aforeſaid.</head>
+                  <p>SIr <hi>Hardreſs Waller,</hi> Collonel <hi>Harriſon,</hi> Comiſſary General <hi>Ireton,</hi> Colonel <hi>Dean,</hi> and Colonel <hi>Okey,</hi> were appointed to conſider of the Time and Place for the Execution of the King, according to his Sentence, given by the (pretended) High Court of Juſtice.</p>
+                  <floatingText xml:lang="eng" type="resolution">
+                     <body>
+                        <opener>
+                           <dateline>Painted Chamber, <date>Monday January the 29<hi rend="sup">th</hi> 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>UPon Report made from the Committee for Conſidering of the Time and Place of the Executing of the Judgement againſt the King, that the ſaid Committee have Reſolved, <hi>That the open ſtreet before</hi> Whitehal <hi>is a fit place:</hi> And the ſaid Committee conceive it fit, <hi>That the King be there executed the morrow, the King having already notice thereof.</hi>
+                        </p>
+                     </body>
+                  </floatingText>
+                  <p>The Court approved thereof, and ordered a Warrant to be drawn to that purpoſe, which Warrant was accordingly drawn and agreed to, and Ordered to be ingroſſed, which was done, and ſigned and ſealed accordingly, as followeth.</p>
+                  <floatingText xml:lang="eng" type="warrant">
+                     <body>
+                        <opener>
+                           <dateline>At the High Court of Juſtice for the Trying and Judging of CHARLES STUART King of England, <date>Jan. 29. 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>WHereas <hi>Charles Stuart</hi> King of <hi>England,</hi> is and ſtandeth Convicted, Attainted and Condemned of High Treaſon, and other Crimes, and Sentence on Saturday laſt was pronounced againſt him by this Court, to be put to Death, by the ſevering his head from his body, of which Sentence Execution yet remaineth to be done. Theſe are therefore to will and require you, to ſee the ſaid Sentence Executed in the open ſtreet before <hi>White<g ref="char:EOLhyphen"/>hall</hi> upon the morrow, being the 30. day of this inſtant Moneth of <hi>January,</hi> between the hours of Ten in the morn<g ref="char:EOLhyphen"/>ing, and Five in the afternoon of the ſame day, with full ef<g ref="char:EOLhyphen"/>fect; and for ſo doing, This ſhall be your ſufficient Warrant: and theſe are to require all Officers and Soldiers and other the good people of this Nation of <hi>England</hi> to be aſſiſtant unto you in this ſervice.</p>
+                        <closer>
+                           <dateline>Given under our hands and Seals.</dateline>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <floatingText xml:lang="eng" type="orders">
+                     <body>
+                        <head>To Colonel Francis Hacker, Colonel Huncks, and Lieutenant Colonel Phray, and to every of them.</head>
+                        <opener>
+                           <signed>Sealed and Subſcribed by,
+<list>
+                                 <item>John Bradſhaw.</item>
+                                 <item>Thomas Gray.</item>
+                                 <item>Oliver Cromwell.</item>
+                                 <item>Edward Whaley.</item>
+                                 <item>Mich. Liveſey.</item>
+                                 <item>John Okey.</item>
+                                 <item>John Danvers.</item>
+                                 <item>John Bourcher.</item>
+                                 <item>Hen. Ireton.</item>
+                                 <item>Tho. Maleverer.</item>
+                                 <item>Jo. Blackeſton.</item>
+                                 <item>Jo. Hatchiſon.</item>
+                                 <item>William Gaffe.</item>
+                                 <item>Tho Pride.</item>
+                                 <item>Peter Temple.</item>
+                                 <item>Tho. Harriſon.</item>
+                                 <item>Joh. Hewſon.</item>
+                                 <item>Henry Smith.</item>
+                                 <item>Per. Pelham.</item>
+                                 <item>Richard Dean.</item>
+                                 <item>Rob. Tichburn.</item>
+                                 <item>Hump. Edwards.</item>
+                                 <item>Dan. Blagrave.</item>
+                                 <item>Owen Roe.</item>
+                                 <item>Will. Purefoye.</item>
+                                 <item>Adrian Scroop.</item>
+                                 <item>James Templer.</item>
+                                 <item>Aug. Garland.</item>
+                                 <item>Edmond Ludlow.</item>
+                                 <item>Hen. Martin.</item>
+                                 <item>Vincent Potter.</item>
+                                 <item>William Conſtable.</item>
+                                 <item>Rich. Ingoldsby.</item>
+                                 <item>Will. Cawley.</item>
+                                 <item>Joh. Barkſtead.</item>
+                                 <item>J. Dixwell.</item>
+                                 <item>Iſaac Ewer.</item>
+                                 <item>Val. Walton.</item>
+                                 <item>Simon Meyne.</item>
+                                 <item>Tho. Horton.</item>
+                                 <item>Jo. Jones.</item>
+                                 <item>Jo. Moor.</item>
+                                 <item>Hardreſs Waller.</item>
+                                 <item>Gilbert Millington.</item>
+                                 <item>G. Fleetwood.</item>
+                                 <item>Jo. Alured.</item>
+                                 <item>Rob. Lilburn.</item>
+                                 <item>Will. Say.</item>
+                                 <item>Anthony Stapley.</item>
+                                 <item>Gregory Norton.</item>
+                                 <item>Tho. Chaloner.</item>
+                                 <item>Tho. Wogan.</item>
+                                 <item>Jo. Venn.</item>
+                                 <item>Greg. Clement.</item>
+                                 <item>Jo. Downs.</item>
+                                 <item>Tho. Waite.</item>
+                                 <item>Tho. Scot.</item>
+                                 <item>John Carew.</item>
+                                 <item>Miles Corbet.</item>
+                              </list>
+                           </signed>
+                        </opener>
+                        <p>
+                           <hi>Ordered,</hi> that the Scaffold on which the King is to be executed be covered with black.</p>
+                     </body>
+                  </floatingText>
+                  <p>The Warrant for executing the King being accordingly delivered to thoſe parties to whom the ſame was directed, Execution was done upon him according to the Tenour thereof about Two a clock in the afternoon, of the ſaid 30. of January 1648.</p>
+                  <div type="part">
+                     <head>The Fatall day of the ſaid Execution, being Tueſday, January the 30. 1648.</head>
+                     <p>HIS Majeſty continued, in Prayer all the morning, and receives the Sacrament. Juſt at Ten a Clock before noon, he was conveyed on foot from St. <hi>James</hi>'s Palace to <hi>Whitehall,</hi> guarded by a Regiment of Foot Soldiers, part before, part be<g ref="char:EOLhyphen"/>hinde, with Colours flying, and Drums beating, his private guard of Partizans about him, and Dr. <hi>Juxon</hi> Biſhop of <hi>London,</hi> next to him on one ſide, and Colonel <hi>Tomliaſon</hi> on the other; being come to <hi>Whitehall,</hi> he continued in his Cabinet Chamber at his Devotions, refuſing to dine, only about 12 a clock he eat a bit of Bread, and drank a glaſſe of Claret wine; from thence he was conveyed into the Banquetting houſe, and the great window inlarged, out of which he aſcends the Scaffold, the rails being hung round, and the floor covered with black; His Exe<g ref="char:EOLhyphen"/>cutioners diſguiſed with Vizards, yet was his Majeſty not affrighted: He ſhewed more care of the people living, then of himſelf dying: for looking round about upon the people, whom the thick Guards of Soldiers kept a great diſtance off, and ſeeing he could not be heard by them, omitting (probably) that he purpoſed to have ſpoken to them, therefore turning to the Officers and Actors by him, he delivered himſelf in a ſhort (but excellent) Speech, which being ended, he mockly vent to Prayers, and after ſome heavenly diſcourſe between him and the Biſhop, having prepared himſelf, he lifted up his eyes to heaven, mildly praying to himſelf, he ſtooped down to the block as to a Prayer deske, and moſt humbly bowed his generous Neck to God, to be cut off by the Vizarded Executioner, which was ſodain<g ref="char:EOLhyphen"/>ly done a one blow. Thus fell King <hi>Charles,</hi> and thus all <hi>Britain</hi> with him.</p>
+                  </div>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Edward Thomas</hi> at the <hi>Adam and Eve</hi> in <hi>Little Britain.</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
